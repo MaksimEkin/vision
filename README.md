@@ -24,7 +24,7 @@ Lots of optimization issues with speed/spacing of hardware. There were many depe
 ## Accomplishments that we're proud of
 After hours of hard work, we were overjoyed with excitement when we heard the speaker accurately depict what the glasses detected. We produced a working demo that is a demonstrating concept that was developed in a short amount of time. In addition, we were able to overcome the missing resources. 
 
-             |  
+1             |  2
 :-------------------------:|:-------------------------:
 ![](/project_images/61acf8b9-8ffe-4e86-b989-4201b5a8f6df.jpg)  |  ![](/project_images/af187f7e-ddf2-4272-aee2-3632334484e8.jpg)
 
