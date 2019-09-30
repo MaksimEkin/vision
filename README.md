@@ -4,6 +4,8 @@
  - 1st Place at the Hackathon
  - Winner of the *Miner & Kasch - Best Data Science Hack* 
  - Winner of the *Most Unique Hack* category
+ 
+ 
 ![](/project_images/a0ae8750-31f7-4ed2-9d00-e9fc8418dd08.jpg)
 
 ## Inspiration
@@ -29,7 +31,7 @@ After hours of hard work, we were overjoyed with excitement when we heard the sp
 
 1             |  2
 :-------------------------:|:-------------------------:
-![](/project_images/61acf8b9-8ffe-4e86-b989-4201b5a8f6df.jpg)  |  ![](/project_images/af187f7e-ddf2-4272-aee2-3632334484e8.jpg)
+![](/project_images/af187f7e-ddf2-4272-aee2-3632334484e8.jpg)  |  ![](/project_images/61acf8b9-8ffe-4e86-b989-4201b5a8f6df.jpg)
 
 ## What we learned
 We gained further experience in handling unexpected problems similar to a real-world production environment. 
