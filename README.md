@@ -4,6 +4,7 @@
  - 1st Place at the Hackathon
  - Winner of the *Miner & Kasch - Best Data Science Hack* 
  - Winner of the *Most Unique Hack* category
+![](/project_images/a0ae8750-31f7-4ed2-9d00-e9fc8418dd08.jpg)
 
 ## Inspiration
 We wanted to create a tool that could help visually impaired people to navigate the world. 
