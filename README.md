@@ -1,4 +1,4 @@
-# vision
+# The Vision
 ### HackUMBC Fall 2019
 
  - 1st Place at the Hackathon
