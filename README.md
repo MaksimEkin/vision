@@ -9,7 +9,11 @@
 ## Inspiration
 We wanted to create a tool that could help visually impaired people to navigate the world. 
 
-| ![](/project_images/61acf8b9-8ffe-4e86-b989-4201b5a8f6df.jpg) | ![](/project_images/af187f7e-ddf2-4272-aee2-3632334484e8.jpg) |
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](/project_images/61acf8b9-8ffe-4e86-b989-4201b5a8f6df.jpg)  |  ![](/project_images/af187f7e-ddf2-4272-aee2-3632334484e8.jpg)
+
 
 ## What it does
 Vision can help people with a visual impairment to navigate through the world. It can identify the objects in front of you and read a text by responding to simple voice commands.
