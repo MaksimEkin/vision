@@ -16,7 +16,10 @@ Vision can help people with a visual impairment to navigate through the world. I
 ## How we built it
 Glasses use voice recognition, image processing and object recognition, and text recognition to provide various simple features to serve as an assistant. We used a hot glue gun to stick a tiny camera onto the lens. We also attached the raspberry-pi circuit board and speaker to the side of the lens. Finally, we have the camera and speaker hooked up to the raspberry-pi which is connected to our monitor for visuals. 
 
-| ![](/project_images/a4e52154-d7b1-45d5-83f9-d80411311de0.jpg) | ![](/project_images/98b2fab4-5c87-42e2-a05b-8b0667c2660f.jpg) |
+Glasses             |  Testing the Glasses
+:-------------------------:|:-------------------------:
+![](/project_images/a4e52154-d7b1-45d5-83f9-d80411311de0.jpg)  |  ![](/project_images/98b2fab4-5c87-42e2-a05b-8b0667c2660f.jpg)
+
 
 ## Challenges we ran into
 Lots of optimization issues with speed/spacing of hardware. There were many dependencies with libraries that one small issue would cause failure for the project overall. Designing a functional design for the use of glasses, camera, and speaker. Adapting to minimal resources.
